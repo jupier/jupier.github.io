@@ -4,6 +4,10 @@ title:  "Bienvenue !"
 date:   2024-01-07
 excerpt: Quelques mots pour expliquer le but de ce blog
 read_time: true
+toc: true
+toc_sticky: true
+author_profile: true
+author: Me
 ---
 
 # Pourquoi ce blog?

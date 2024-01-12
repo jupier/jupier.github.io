@@ -6,7 +6,7 @@ excerpt: Simplement mon setup Zwift
 read_time: true
 toc: true
 toc_sticky: true
-author: Billy Rick
+author: Me
 author_profile: true
 ---
 
