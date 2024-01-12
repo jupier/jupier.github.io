@@ -1,0 +1,8 @@
+Billy Rick:
+  name        : "Julien P."
+  avatar      : "/assets/author.jpg"
+  location    : "Fr"
+  links:
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jupier"

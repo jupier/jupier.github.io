@@ -2,9 +2,9 @@
 layout: single
 title:  "Bienvenue !"
 date:   2024-01-07
+excerpt: Quelques mots pour expliquer le but de ce blog
+read_time: true
 ---
-
-![](/assets/welcome_header.jpg)
 
 # Pourquoi ce blog?
 
