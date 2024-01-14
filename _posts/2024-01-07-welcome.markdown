@@ -1,43 +1,48 @@
 ---
-layout: single
 title:  "Bienvenue !"
 date:   2024-01-07
 excerpt: Quelques mots pour expliquer le but de ce blog
-read_time: true
-toc: true
-toc_sticky: true
-author_profile: true
-author: Me
 ---
 
-# Pourquoi ce blog?
+# Pourquoi ce blog ❓
 
 En ce début d'année 2024, je lis le livre Atomic Habits de James Clear.
+
+![atomic habits](/assets/atomic_habits.jpg){: .align-center}
+
+> This breakthrough book from James Clear is the most comprehensive guide on how to change your habits and get 1% better every day.
+
+En quelques mots, ce bouquin offre une méthode permettant de mettre en place
+et développer ses habitudes afin de les rendre automatique. Il est assez 
+reconnu et je dois avoué que j'ai tout de suite voulu tester la méthode au travers
+de ce blog.
+
 Au moment où j'écris ce post, je n'ai pas encore terminé le bouquin, pourtant
-je me suis décidé à commencer ce blog.
+je me suis décidé à commencer.
 
-![atomic habits](/assets/atomic_habits.jpg)
+# Historique 🕰️
 
-J'ai déjà eu des blogs personnels au cours des dernières années, mais ils étaient
-tous liés à mon travail (software engineer) et donc très technique (j'avais par exemple
-fait un blog lié à Adobe AEM, si vous ne connaissez pas c'est normal).
+J'ai déjà eu des blogs personnels au cours des dernières années. Ils étaient
+tous liés à mon travail (Software Engineer) et donc technique. J'avais par exemple
+fait un blog lié à Adobe AEM (si vous ne connaissez pas c'est normal 😅).
 
 Cependant cette fois ci, je compte faire un blog qui sera à la fois lié à mon
-boulot (qui reste une passion) mais aussi à la fois à mes passions personnels (la moto,
-la lecture, le vélo...etc).
+boulot mais aussi à mes passions personnels (la moto, la lecture, le vélo...etc).
+
 Je souhaite simplement partager mes expériences afin qu'un maximum de personne puissent
 en bénéficier.
 
-# Pourquoi ce post?
+# Pourquoi ce post ❓
 
 Dans Atomic Habits, James Clear nous conseil de commencer par de petites étapes, 
 de petits changements.
 
-Voilà ce qu'est ce post. Une première étape dans la mise en place d'un blog personnel.
-Une première étape pour m'aider dans ce changement. Nous verrons si ça fonctionne, en tout
-cas, je suis heureux de commencer aujourd'hui.
+Voilà quel est le but de ce post. Une première étape dans la mise en place d'un blog personnel.
+Une première étape pour m'aider dans ce changement. 
 
-# Objectifs?
+Nous verrons si cela fonctionne, en tout cas, je suis heureux de commencer aujourd'hui ☺️
+
+# Objectifs ❓
 
 Je n'ai pas d'objectif particulier pour ce blog. Je ne souhaite pas me faire connaître.
 
@@ -45,23 +50,25 @@ Par contre, je souhaite, dans un premier temps, sortir un post par semaine (chaq
 Je compte bien tenir cette fréquence, même si le post n'est pas parfait. Je pourrais
 toujours revenir dessus afin de l'améliorer ou y faire des changements.
 
-Idem pour le blog en lui même. Pour le moment, il est très sommaire. C'est voulu.
-J'ai souvent passé beaucoup de temps sur le thème de mon blog, la couleur de fond,
-le menu...etc. C'était à mon sens un erreur. Je préfère pour ce blog ci, écrire
-plusieurs posts puis, si besoin, l'améliorer.
+Idem pour le blog en lui même. Pour le moment, il est très sommaire. C'est voulu!
+J'ai souvent passé beaucoup de temps sur le thème de mes blog, la couleur de fond,
+le menu...etc. C'était une erreur. 
 
-# Ecrire?
+Je préfère pour ce blog ci, écrire plusieurs posts, puis l'améliorer si j'en ressent le besoin.
+
+# Ecrire ❓
 
 Comme n'importe quel 'hobbie', l'écriture ça s'apprend. Je ne me considère pas comme
 bon ou mauvais pour le moment.
 
-Je lis beaucoup et tout type de livre (science fiction, fantaisie, anthropologue,
+Je lis beaucoup et tout type de livre (science fiction, fantaisie, anthropologie,
 livre d'informatique, développement personnel, en français ou en anglais...).
+
 J'aime énormément les livres qui sont simples à lire. Ca ne veut pas dire que le livre
-ne traite pas d'un sujet complexe. Mais pour moi ça veut dire que l'auteur à fait en sorte
+ne traite pas d'un sujet complexe. Mais plutôt que l'auteur à fait en sorte
 de l'écrire de cette manière. 
 
-A l'écriture il est facile de faire un texte complexe pour expliquer quelque chose de simple.
+A l'écriture, il est facile de faire un texte complexe pour expliquer quelque chose de simple.
 Mais il souvent plus difficile de faire un texte simple pour expliquer quelque chose de complexe.
 Stephen Hawking par exemple, est connu pour "ses ouvrages de vulgarisation scientifique"
 (je vous les recommande).

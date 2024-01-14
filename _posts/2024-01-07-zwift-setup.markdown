@@ -1,13 +1,8 @@
 ---
-layout: single
 title:  "Mon setup Zwift"
 date:   2024-01-07
 excerpt: Simplement mon setup Zwift
-read_time: true
-toc: true
-toc_sticky: true
-author: Me
-author_profile: true
+categories: sport
 ---
 
 # Pourquoi présenter mon setup?
