@@ -12,6 +12,6 @@ search: false
 https://github.com/mmistakes/minimal-mistakes/blob/master/_sass/minimal-mistakes/_variables.scss
 */
 
-.page__content p {
+.page__content p, .page__content li {
     font-size: $type-size-6;
 }
