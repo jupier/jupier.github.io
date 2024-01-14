@@ -4,7 +4,7 @@ date:   2024-01-07
 excerpt: Quelques mots pour expliquer le but de ce blog
 ---
 
-# Pourquoi ce blog ❓
+# Pourquoi ce blog❓
 
 En ce début d'année 2024, je lis le livre Atomic Habits de James Clear.
 
@@ -32,7 +32,7 @@ boulot mais aussi à mes passions personnels (la moto, la lecture, le vélo...et
 Je souhaite simplement partager mes expériences afin qu'un maximum de personne puissent
 en bénéficier.
 
-# Pourquoi ce post ❓
+# Pourquoi ce post❓
 
 Dans Atomic Habits, James Clear nous conseil de commencer par de petites étapes, 
 de petits changements.
@@ -42,7 +42,7 @@ Une première étape pour m'aider dans ce changement.
 
 Nous verrons si cela fonctionne, en tout cas, je suis heureux de commencer aujourd'hui ☺️
 
-# Objectifs ❓
+# Objectifs❓
 
 Je n'ai pas d'objectif particulier pour ce blog. Je ne souhaite pas me faire connaître.
 
@@ -56,7 +56,7 @@ le menu...etc. C'était une erreur.
 
 Je préfère pour ce blog ci, écrire plusieurs posts, puis l'améliorer si j'en ressent le besoin.
 
-# Ecrire ❓
+# Ecrire❓
 
 Comme n'importe quel 'hobbie', l'écriture ça s'apprend. Je ne me considère pas comme
 bon ou mauvais pour le moment.
