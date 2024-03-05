@@ -1,5 +1,6 @@
 title: jupier.github.io
 github_username:  jupier
+repository: jupier/jupier.github.io
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
@@ -34,3 +35,9 @@ plugins:
 whitelist:
   - jekyll-include-cache
   - jekyll-paginate
+
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-light"
+    issue_term: "pathname"
