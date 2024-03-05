@@ -4,7 +4,7 @@ date:   2024-01-13
 excerpt: Quelques mots pour parler du projet avec ma GSXR
 ---
 
-# Quésaquo? 
+# Quésaquo❓
 
 Je suis un grand passioné de moto. J'ai passé mon permis il y a quelques années et 
 ai toujours eu le souhait de m'acheter une [Suzuki GSXR](https://fr.wikipedia.org/wiki/Suzuki_GSX-R). 
@@ -43,7 +43,7 @@ En autre;
 - changer les protections de réservoir
 - ...
 
-# Pourquoi?
+# Pourquoi❓
 
 Simplement pour mettre la moto à mon goût et avoir l'impression qu'elle sort
 du garage.
