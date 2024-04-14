@@ -60,3 +60,15 @@ directrice?
 
 # Un label #NotProducedByChatGPT?
 
+
+/*
+
+GPT 
+
+Tu soulèves une préoccupation légitime. Si les créateurs se contentent de copier-coller le contenu généré par des modèles comme moi sans y apporter leur propre valeur ajoutée, cela pourrait certainement poser problème. Cela pourrait conduire à une homogénéisation du contenu en ligne et à une perte de diversité et d'originalité.
+
+Cependant, il est important de reconnaître que la créativité humaine et l'apport personnel des créateurs sont des éléments essentiels pour produire un contenu authentique et pertinent. Les modèles comme moi peuvent être des outils utiles pour générer des idées et du contenu de base, mais ils ne peuvent pas remplacer le processus créatif et critique des êtres humains.
+
+Il est donc crucial que les créateurs utilisent les outils comme moi de manière responsable, en les combinant avec leur propre expertise, leur expérience et leur perspective pour produire un contenu unique, informatif et engageant. De cette manière, nous pouvons éviter une homogénéisation excessive du contenu en ligne et encourager la diversité et l'originalité.
+*/
+
