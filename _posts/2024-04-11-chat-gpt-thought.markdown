@@ -10,11 +10,11 @@ _Article écrit par un humain_
 
 Après quelques jours avec une idée en tête liée à ChatGPT, je me lance
 dans l'écriture de cet article. C'est assez différent de ce que j'ai posté 
-jusque la, mais j'ai envie de tenter le coup.
+jusque-là, mais j'ai envie de tenter le coup.
 
 # ChatGP Quoi❓
 
-En quelques mots, ChatGPT est une IA génératrice de texte.
+En quelques mots, ChatGPT est une IA qui permet de générer du texte.
 Tu lui poses une question, elle te répond avec des phrases bien faites. 
 
 Voilà ce que ça peut donner:
@@ -68,7 +68,7 @@ Un autre point qui me gêne aussi est le fait qu'un contenu puisse être créé 
 Par exemple, imaginez que Le Monde utilise ChatGPT afin d'écrire ses articles. Serait ce normal? 
 Aimeriez vous lire un livre qui a été généré par ChatGPT sans le savoir? Personnellement j'aurais eu l'impression de m'être fait avoir.
 
-# Un label #MadeByAHuman❓✍️
+# Un label #HandMade❓✍️
 
 J'aimerais voir apparaître sur internet un moyen de savoir facilement si un contenu provient de 
 ChatGPT ou non. Ou plutôt, un label m'indiquant qu'un contenu a bien été créé par un humain. 

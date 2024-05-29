@@ -18,6 +18,12 @@ feature_row:
     url: "/2024/04/11/chat-gpt-thought.html"
     btn_label: "C'est par ici"
     btn_class: "btn--primary"
+  - image_path: assets/welcome-sre.jpg
+    title: "L'importance de la rédaction pour un software engineer"
+    excerpt: "Plus tu vieillis, moins tu codes"
+    url: "/2024/05/22/sre-redaction.html"
+    btn_label: "C'est par ici"
+    btn_class: "btn--primary"
   - image_path: assets/welcome-gsxr-1.jpg
     title: "Le 'projet' GEX"
     excerpt: "Remise d'origine de ma GSXR 600 2008"
