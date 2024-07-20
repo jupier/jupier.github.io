@@ -28,7 +28,7 @@ carter était bien âbimé.
 - ...
 
 Voici une photo:
-![vélo](/assets/gsxr-intro.jpg){: .align-center}
+![gsxr avant changements](/assets/gsxr-intro.jpg){: .align-center}
 
 # Le projet
 

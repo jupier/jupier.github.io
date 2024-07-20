@@ -36,6 +36,12 @@ feature_row:
     url: "/2024/03/03/gsxr-k8-echappement.html"
     btn_label: "C'est par ici"
     btn_class: "btn--primary"
+  - image_path: assets/welcome-gsxr-3.jpg
+    title: "GSXR - dernière étape"
+    excerpt: "Améliorations et vente"
+    url: "/2024/07/20/gsxr-k8-fin.html"
+    btn_label: "C'est par ici"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
