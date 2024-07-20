@@ -4,6 +4,8 @@ date:   2024-07-20
 excerpt: Deuxième étape et fin
 ---
 
+_Article écrit entièrement par un humain_ 🥹
+
 # Introduction
 
 Suite et fin du projet GSXR. Oui, déjà 😅
@@ -26,9 +28,13 @@ Elle a aussi passé une grosse révision (~600 euros ça fait mal 🥵) ainsi qu
 Quelques photos de la moto après toutes ces étapes:
 
 ![gsxr avant changements](/assets/gsxr-end-1.jpg){: .align-center}
+
 ![gsxr avant changements](/assets/gsxr-end-2.jpg){: .align-center}
+
 ![gsxr avant changements](/assets/gsxr-end-3.jpg){: .align-center}
+
 ![gsxr avant changements](/assets/gsxr-end-4.jpg){: .align-center}
+
 ![gsxr avant changements](/assets/gsxr-end-5.jpg){: .align-center}
 
 # Vente
